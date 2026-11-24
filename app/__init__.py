@@ -1,0 +1,2 @@
+"""AYNUO application package."""
+
